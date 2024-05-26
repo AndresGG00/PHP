@@ -1,0 +1,11 @@
+table, form {
+  margin: 0 auto;
+  border: 1px solid rgba(150,150,150,1);
+  box-shadow: 0 0 10px 0 rgba(150,150,150,1);
+}
+
+table tr td {
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid rgba(150,150,150,1);
+}
